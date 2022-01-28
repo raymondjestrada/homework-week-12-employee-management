@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^14.3.2",
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.14.1"
+  },
+  "name": "homework-week-12-employee-management",
+  "description": "https://github.com/raymondjestrada/homework-week-12-employee-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondjestrada/homework-week-12-employee-management.git"
+  },
+  "author": "Raymond Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raymondjestrada/homework-week-12-employee-management/issues"
+  },
+  "homepage": "https://github.com/raymondjestrada/homework-week-12-employee-management#readme"
+}

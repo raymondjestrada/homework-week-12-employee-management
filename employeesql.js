@@ -6,7 +6,7 @@ const inquirer = require("inquirer");
 // const connection = mysql.createConnection({
 //     host: "localhost",
 
-//     // Your port; if not 3306
+//     // Your port
 //     port: 3001,
 
 //     // Your username
@@ -28,4 +28,4 @@ const inquirer = require("inquirer");
 
 // //RUN THE CODE
 
-// console.log("Ding!")
+// console.log("Hello!")

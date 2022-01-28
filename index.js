@@ -30,7 +30,7 @@ connection.connect(function(err) {
 
 //RUN THE CODE===============================================================================
 
-console.log("Ding!")
+console.log("Hello!")
 
 //Run the App
 function init() {
