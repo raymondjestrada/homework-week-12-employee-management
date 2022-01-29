@@ -1,18 +1,15 @@
-//DEPENDENCIES ==================================
 const mysql = require("mysql");
 const inquirer = require("inquirer");
 
 
-
-//CONNECTING TO OUR DB =====================================================================
 const connection = mysql.createConnection({
     host: "localhost",
 
     //Your port
-    port: 3001,
+    port: 3306,
 
     // Your username
-    user: "raymondjestrada",
+    user: "root",
 
     // Your password
     password: "Maxelle#18",
