@@ -64,7 +64,7 @@ Proceed by selecting the menu options to view, add, or revise the data in the da
 
 For a walk-through of this application, please view the following video:
 
-<iframe src="https://drive.google.com/file/d/1tuQvBStqZOH9Z8QmpFUezBBm5IfUpNkK/preview" width="640" height="480"></iframe>
+https://watch.screencastify.com/v/ypjPWNg7j2np3HUNCQOq
 
 
 ## Contributing
