@@ -1,33 +1,25 @@
 {
+  "name": "homework-week-12-employee-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "console.table": "^0.10.0",
-    "dotenv": "^14.3.2",
-    "fs": "^0.0.1-security",
-    "inquirer": "^8.2.0",
-    "jest": "^27.4.7",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.3.3",
-    "nodemon": "^2.0.15",
-    "seeds": "^2.3.1",
-    "sequelize": "^6.14.1",
-    "util": "^0.12.4"
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.3.3"
   },
-  "name": "homework-week-12-employee-management",
-  "description": "https://github.com/raymondjestrada/homework-week-12-employee-management",
-  "version": "1.0.0",
-  "main": "index.js",
-  "port": 3001,
   "scripts": {
-    "test": "jest",
-    "start": "node index.js",
-    "seed": "Employeeseed.sql"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sql": "mysql -u root -p",
+    "start": "node tracker.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raymondjestrada/homework-week-12-employee-management.git"
+    "url": "https://github.com/raymondjestrada/homework-week-12-employee-management"
   },
-  "author": "Raymond Estrada",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/raymondjestrada/homework-week-12-employee-management/issues"
   },
