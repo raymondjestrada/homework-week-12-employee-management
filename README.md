@@ -57,7 +57,8 @@ To use the application, type the following into the command line at the root dir
     
 The application will start and show a list of options to execute, as shown below:
 
-![Options Menu](assets\images\employee-tracker-options.JPG)
+![image](https://user-images.githubusercontent.com/87677207/151663254-19b8b9a0-0aa3-4332-8632-369f157aabda.png)
+
 
 Proceed by selecting the menu options to view, add, or revise the data in the database.
 
